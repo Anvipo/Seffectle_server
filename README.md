@@ -1,6 +1,6 @@
 # Seffectle server
 Server for Seffectle
-#REQUIREMENTS
-* IntelliJ IDEA
+# REQUIREMENTS
+* Intellij IDEA
 * NodeJS
 * npm
